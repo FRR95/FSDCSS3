@@ -32,6 +32,12 @@ background-color: brown;
     width: 4em;
     margin: 1em;
     border: 2px black solid;
+    transition:0.5s
+}
+.box:hover{
+    border-radius: 50% 30% 60% 10%;
+margin-left: 3em;
+    transition:0.5s
 }
 
 .box1 {
