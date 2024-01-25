@@ -1,30 +1,30 @@
 body{
 margin:0;
 padding:0;
+background-color: brown;
 }
 
 #mainbox {
-    background-color: brown;
+    
     width: 100vw;
     height: 100vh;
-    display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
+    display: grid;
+    align-content: center;
+    
 
 }
 
 #filebox1 {
-    justify-content: center;
-    align-items: center;
+ display: flex;
 
-  
+ 
 }
 #filebox2 {
-    justify-content: center;
-    align-items: center;
-  
- 
-    
+   
+    display: flex; 
+
 }
 
 .box{
@@ -36,7 +36,7 @@ padding:0;
 
 .box1 {
    
-    background-color: blue;
+    background-color: rgb(78, 78, 170);
     
 }
 
@@ -79,7 +79,7 @@ padding:0;
 }
 .box9 {
   
-    background-color: rgb(40, 212, 132);
+    background-color: rgb(230, 167, 226);
    
 }
 .box10 {
