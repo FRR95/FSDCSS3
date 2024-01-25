@@ -2,3 +2,88 @@ body{
 margin:0;
 padding:0;
 }
+
+#mainbox {
+    background-color: brown;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#filebox1 {
+    justify-content: center;
+    align-items: center;
+
+  
+}
+#filebox2 {
+    justify-content: center;
+    align-items: center;
+  
+ 
+    
+}
+
+.box{
+    height: 4em;
+    width: 4em;
+    margin: 1em;
+    border: 2px black solid;
+}
+
+.box1 {
+   
+    background-color: blue;
+    
+}
+
+.box2 {
+ 
+    background-color: rgb(4, 255, 0);
+    
+}
+
+.box3 {
+  
+    background-color: rgb(255, 0, 234);
+    
+}
+
+.box4 {
+  
+    background-color: rgb(44, 54, 206);
+   
+}
+.box5 {
+  
+    background-color: rgb(214, 20, 133);
+   
+}
+.box6 {
+  
+    background-color: rgb(53, 133, 106);
+   
+}
+.box7 {
+  
+    background-color: rgb(155, 95, 211);
+   
+}
+.box8 {
+  
+    background-color: rgb(90, 209, 140);
+   
+}
+.box9 {
+  
+    background-color: rgb(40, 212, 132);
+   
+}
+.box10 {
+  
+    background-color: rgb(11, 83, 74);
+   
+}
